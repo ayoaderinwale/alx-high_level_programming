@@ -1,2 +1,1 @@
-# alx-high_level_programming
-python class
+Python progamming
